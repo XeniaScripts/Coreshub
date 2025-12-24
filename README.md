@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CORE'S HUB</title>
+<title>BLACK DRAGON</title>
 
 <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
 
@@ -43,7 +43,7 @@ input, textarea { width:100%; padding:12px; margin-bottom:15px; border-radius:10
 
 <div id="particles-js"></div>
 <header>
-  <h1>CORE'S HUB</h1>
+  <h1>BLACK DRAGON</h1>
   <button class="scroll-btn" onclick="document.getElementById('scripts').scrollIntoView({behavior:'smooth'})">View Scripts</button>
 </header>
 <section id="scripts">
